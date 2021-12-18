@@ -1,0 +1,47 @@
+ol.c {
+    list-style-type: upper-roman;
+  }
+ul.b {
+    list-style-type: square;
+  }
+img {
+    border-radius: 8px;
+  }
+img.float{
+    float: right;
+}
+p.credit{
+    font-style: italic;
+    font-size: 10px;
+    color: grey;
+}
+h2{
+    color: darkcyan;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size:30px;
+    text-decoration: underline;
+}
+h3{
+    color: #696969;
+    font-style: oblique;
+    font-size: 25px;
+}
+body{
+    color: black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.footer{
+    position:fixed;
+    left:0px;
+    right:0px;
+    bottom: 0px;
+    border-top: 2px solid darkslategray;
+    text-align: center;
+    background-color: antiquewhite;
+}
+a:hover{
+    color: royalblue;
+}
+.customlink{
+    color: ;
+}
